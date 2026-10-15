@@ -72,7 +72,7 @@ Student-Performance-Analyzer/
 ├── data/
 │   └── student_performance.csv
 │
-├── notebooks/
+├── Notebook/
 │   └── student_performance_analysis.ipynb
 │
 ├── Images/
@@ -81,3 +81,12 @@ Student-Performance-Analyzer/
 │   └── study_hours_vs_average_score.png
 │
 └── README.md
+
+## How to Run
+
+1. Clone this repository.
+2. Open the project folder in Jupyter Notebook.
+3. Open `Notebook/student_performance_analysis.ipynb`.
+4. Make sure the dataset is available in the `data` folder.
+5. Run the notebook cells from top to bottom.
+
