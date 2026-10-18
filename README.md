@@ -57,6 +57,13 @@ The following analyses were performed:
 
 ![Attendance vs Average Score](Images/attendance_vs_average_score.png)
 
+## 8. Correlation Analysis
+Correlation analysis was used to examine the relationships between Attendance, Study Hours, and Average Score.
+
+The results show very strong positive correlations between these variables. Attendance has the strongest correlation with Average Score (0.996), while Study Hours also show a very strong positive correlation with Average Score (0.983).
+
+Correlation indicates a relationship between variables but does not prove causation.
+
 ## Key Insights
 
 - Study hours and average score show a positive relationship in the dataset.
@@ -89,4 +96,10 @@ Student-Performance-Analyzer/
 3. Open `Notebook/student_performance_analysis.ipynb`.
 4. Make sure the dataset is available in the `data` folder.
 5. Run the notebook cells from top to bottom.
+
+## Conclusion
+
+This project demonstrates how Python can be used to explore, analyze, and visualize student performance data.
+
+Through this project, I practiced data cleaning, exploratory data analysis, statistical summaries, data visualization, and extracting meaningful insights from a dataset.
 
